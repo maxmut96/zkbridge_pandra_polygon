@@ -1,3 +1,5 @@
+ПОДПИСКА НА БЛОГ: https://t.me/crypto_zametki
+
 Нужно самостоятельно дернуть кран в тестовый БНБ
 
 https://testnet.bnbchain.org/faucet-smart
